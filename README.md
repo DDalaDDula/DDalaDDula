@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![DDalaDDula's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDalaDDula&show_icons=true&theme=ambient_gradient&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDalaDDula&layout=compact)](https://github.com/DDalaDDula/github-readme-stats)
+![DDalaDDula's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDalaDDula&show_icons=true&theme=ambient_gradient&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDalaDDula&layout=compact&theme=ambient_gradient)](https://github.com/DDalaDDula/github-readme-stats)
 
 
 - 🤔 I’m interesting in Image Processing, Computervision, Autonomous Vehicle System
