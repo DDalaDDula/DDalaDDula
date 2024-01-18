@@ -3,7 +3,7 @@
 ![DDalaDDula's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDalaDDula&show_icons=true&theme=tokyonight&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDalaDDula&layout=compact&theme=tokyonight)](https://github.com/DDalaDDula/github-readme-stats)
 
 
-- 🤔 I’m interesting in Image Processing, Computervision, Autonomous Vehicle System
+- 🤔 I’m interesting in Image Processing, Computervision, Autonomous Driving System
 - 🌱 I’m currently learning Data Science, ML/DL, Geographic analysis
 ---
 🚀 Stacks
