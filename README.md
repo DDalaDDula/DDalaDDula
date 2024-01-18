@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![DDalaDDula's GitHub stats](https://github-readme-stats.vercel.app/api?username=&hide=contribs,prs)
+[![DDalaDDula's GitHub stats](https://github-readme-stats.vercel.app/api?username=&hide=prs)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
