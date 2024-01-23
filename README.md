@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align=center>
+
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20there👋%20&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&desc=DDalaDDula's%20GitHub&descAlign=85.&descAlignY=84)
 
 ![DDalaDDula's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDalaDDula&show_icons=true&theme=tokyonight&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDalaDDula&layout=compact&theme=tokyonight)](https://github.com/DDalaDDula/github-readme-stats)
 
@@ -16,3 +18,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DDalaDDula&repo=NIFoS_GIS_Analysis&show_owner=True&theme=tokyonight)](https://github.com/DDalaDDula/NIFoS_GIS_Analysis)
 -->
 ---
+</div>
