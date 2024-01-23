@@ -10,6 +10,7 @@
 </div>
 
 ---
+<div align=left>
 <h3><b>⌨Using Language</h3></b>
 <br><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 <br><br>
@@ -19,5 +20,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DDalaDDula&repo=Analysis_of_Urban_Heat_Island_degree_And_New_Vegetation_Areas&show_owner=True&theme=tokyonight)](https://github.com/DDalaDDula/Analysis_of_Urban_Heat_Island_degree_And_New_Vegetation_Areas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DDalaDDula&repo=NIFoS_GIS_Analysis&show_owner=True&theme=tokyonight)](https://github.com/DDalaDDula/NIFoS_GIS_Analysis)
 -->
+</div>
 
 ---
