@@ -2,12 +2,35 @@
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20there👋%20&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-![DDalaDDula's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDalaDDula&show_icons=true&theme=tokyonight&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDalaDDula&layout=compact&theme=tokyonight)](https://github.com/DDalaDDula/github-readme-stats)
+<p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=DDalaDDula&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDalaDDula&layout=compact&theme=aura&langs_count=9" />
+</p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<br>
+
+</div>
+
+---
+
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=50px height=50px>
+
+<h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>
 
 <h3><b> - 🌱 I’m currently studying Data Science, ML/DL, Geographic/Geospatial analysis</h3></b>
 <h3><b> - 🤔 I’m interesting in Image Processing, Computervision, Autonomous Driving System</h3></b>
-</div>
 
 ---
 <div align=left>
