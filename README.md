@@ -26,7 +26,7 @@
 <h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>
 
 <h3><b> - 🌱 I’m currently studying Data Science, ML/DL, Geographic/Geospatial analysis</h3></b>
-<h3><b> - 🤔 I’m interesting in Image Processing, Computervision, Autonomous Driving System</h3></b>
+<h3><b> - 🤔 I’m interesting in Data Science, Computervision</h3></b>
 
 ---
 <div align=left>
