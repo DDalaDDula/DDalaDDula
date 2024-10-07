@@ -5,16 +5,6 @@
 <p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=DDalaDDula&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDalaDDula&layout=compact&theme=aura&langs_count=9" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg">
-  <img alt="github contribution grid snake animation" src="github-user-contribution.svg">
-</picture>
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture> -->
 <br>
 
 </div>
